@@ -1,5 +1,5 @@
 {
-    "type": "m5stack_FOTA",
-    "version": "0.1.9",
-    "url": "https://drive.google.com/file/d/1-ZTgN7evh6fRchDzYek7AGnuI0_cq6fq/view"
+  "type": "m5stack_FOTA",
+  "version": "0.1.10",
+  "url": "https://github.com/tuan-karma/fota_firmware_test/raw/main/m5stack/firmware.img"
 }
