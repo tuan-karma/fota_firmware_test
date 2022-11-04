@@ -1,5 +1,12 @@
-{
-  "type": "m5stack_FOTA",
-  "version": "0.1.1",
-  "url": "http://10.130.0.141:8000/m5stack/firmware.img"
-}
+[
+  {
+    "type": "m5stack_FOTA",
+    "version": "0.1.1",
+    "url": "http://10.130.0.141:8000/m5stack/firmware.img"
+  },
+  {
+    "type": "lolin32_FOTA",
+    "version": "0.1.0",
+    "url": "http://10.130.0.141:8000/lolin32/firmware.img"
+  }
+]

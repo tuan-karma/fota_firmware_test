@@ -7,5 +7,6 @@
 
 ## Secure config (config esp32 devices over-the-air)
 - ESP32 devices check `<device_type>/config.json` periodicly (GET requests with device's ID)
+- Check & compare the config's version --> if new version --> next step
 - Devices also get the `<device_type>/config.sign` to verify the signature of the config.json (corresponds to the pub key stored in the firmware) --> update configuration parameters --> store in the device NVS partitions.
 

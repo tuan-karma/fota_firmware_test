@@ -1,0 +1,19 @@
+[
+    {
+      "type": "m5stack_FOTA",
+      "version": "0.1.1",
+      "ch4_factor": 25.5,
+      "power_factor": 12.2
+    },
+    {
+      "type": "lolin32_FOTA",
+      "version": "0.1.0",
+      "check_duration_seconds": 10
+    },
+    {
+        "type": "solar",
+        "version": "0.1.0",
+        "check_duration_seconds": 5
+    }
+  ]
+  
