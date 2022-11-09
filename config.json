@@ -4,5 +4,6 @@
   "ch4_factor": 25.5,
   "power_factor": 12.25,
   "firmware_version": "0.1.0",
-  "firmware_url": "http://10.130.0.141:8000/m5stack/firmware.img"
+  "firmware_url": "http://10.130.0.141:8000/m5stack/firmware.img",
+  "update_public_key": false
 }
