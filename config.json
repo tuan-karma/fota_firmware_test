@@ -1,6 +1,6 @@
 {
   "type": "m5stack_FOTA",
-  "config_version": "0.1.5",
+  "config_version": "0.1.6",
   "config_url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/config.img",
   "ch4_factor": 25.5,
   "power_factor": 12.25,
