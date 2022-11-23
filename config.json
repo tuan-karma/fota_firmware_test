@@ -1,7 +1,7 @@
 {
   "type": "ch4_generator",
   "config": {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "url_change?": false,
     "url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/config.img",
     "public_key_change?": false,
