@@ -1,11 +1,11 @@
 {
   "type": "ch4_generator",
   "config": {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "url_change?": false,
     "url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/config.img",
-    "public_key_change?": false,
-    "public_key_url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/config_key.pub"
+    "public_key_change?": true,
+    "public_key_url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/new_config_key.pub"
   },
   "device": {
     "ch4_factor": 25.5,
