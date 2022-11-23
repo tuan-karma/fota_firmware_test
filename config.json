@@ -1,7 +1,7 @@
 {
   "type": "ch4_generator",
   "config": {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "url_change?": false,
     "url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/config.img",
     "public_key_change?": false,
@@ -10,7 +10,7 @@
   "device": {
     "ch4_factor": 25.5,
     "power_factor": 12.25,
-    "checking_interval": 10
+    "checking_interval": 20
   },
   "firmware": {
     "version": "0.0.2",
