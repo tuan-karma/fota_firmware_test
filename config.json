@@ -1,7 +1,7 @@
 {
   "type": "ch4_generator",
   "config": {
-    "version": "0.0.8",
+    "version": "0.0.9",
     "url_change?": false,
     "url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/config.img",
     "public_key_change?": false,
@@ -13,7 +13,7 @@
     "checking_interval": 20
   },
   "firmware": {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "url_change?": false,
     "url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/m5stack/firmware.img",
     "public_key_change?": false,
