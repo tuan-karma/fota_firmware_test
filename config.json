@@ -1,9 +1,9 @@
 {
   "type": "ch4_generator",
   "config": {
-    "version": "0.0.13",
+    "version": "0.0.14",
     "url_change?": true,
-    "url": "http://10.130.0.141/config.img",
+    "url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/config.img",
     "public_key_change?": false,
     "public_key_url": "http://10.130.0.141/config_key.pub"
   },
@@ -15,7 +15,7 @@
   "firmware": {
     "version": "0.0.5",
     "url": "http://10.130.0.141/m5stack/firmware.img",
-    "public_key_change?": true,
+    "public_key_change?": false,
     "public_key_url": "http://10.130.0.141/m5stack/firmware_key.pub"
   }
 }
