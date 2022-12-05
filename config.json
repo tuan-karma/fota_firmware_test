@@ -1,20 +1,20 @@
 {
   "type": "ch4_generator",
   "config": {
-    "version": "0.0.11",
-    "url_change?": true,
-    "url": "http://10.130.0.141/config.img",
+    "version": "0.0.12",
+    "url_change?": false,
+    "url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/config.img",
     "public_key_change?": false,
     "public_key_url": "http://10.130.0.141/config_key.pub"
   },
   "device": {
     "ch4_factor": 25.5,
     "power_factor": 12.25,
-    "checking_interval": 5
+    "checking_interval": 15
   },
   "firmware": {
-    "version": "0.0.3",
-    "url": "http://10.130.0.141/m5stack/firmware.img",
+    "version": "0.0.5",
+    "url": "https://raw.githubusercontent.com/tuan-karma/fota_firmware_test/main/m5stack/firmware.img",
     "public_key_change?": false,
     "public_key_url": "http://10.130.0.141/m5stack/firmware_key.pub"
   }
